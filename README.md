@@ -7,6 +7,8 @@ HTML5:
 - required;
 - data-type;
 - patterns, RegEx;
+
+
 JS:
 - data atributes;
 - custom validations;
